@@ -1,3 +1,0 @@
-C:/Users/MeriBadalyan/ROP_gadgets/build/CMakeFiles/main.dir
-C:/Users/MeriBadalyan/ROP_gadgets/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/MeriBadalyan/ROP_gadgets/build/CMakeFiles/ZERO_CHECK.dir
